@@ -1,0 +1,29 @@
+{
+  "images" : [
+    {
+      "filename" : "Group (17).png",
+      "idiom" : "universal",
+      "resizing" : {
+        "cap-insets" : {
+          "bottom" : 34,
+          "left" : 22,
+          "right" : 116,
+          "top" : 34
+        },
+        "center" : {
+          "height" : 1,
+          "mode" : "stretch",
+          "width" : 30
+        },
+        "mode" : "9-part"
+      }
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
